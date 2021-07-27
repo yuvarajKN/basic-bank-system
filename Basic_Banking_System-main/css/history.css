@@ -1,0 +1,14 @@
+body{
+    background:rgb(86, 197, 101);
+}
+
+#hist p{
+    text-align: center;
+    margin-top: 200px;
+}
+
+.th1 p{
+    text-align: center;
+    font-size: 28px;
+    text-transform: uppercase;
+}
